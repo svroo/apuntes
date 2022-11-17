@@ -1,0 +1,5 @@
+- [[Metodologia CRISP-DM]]
+- [[Jerarquia de clases]]
+-  [[Spatial - datacube]] 
+- [[Protocolo de proyecto]] 
+- [[Clase mineria 08-11-22]] 

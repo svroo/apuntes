@@ -1,0 +1,8 @@
+- [[Procesamiento de Lenguaje Natural]]
+- [[Fundamentos Económicos]]
+- [[Aprendizaje Maquina]]
+- [[Analitica y Visualización de Datos]]
+- [[Mineria de datos]]
+- [[Metodologia de la investigación]]
+- [[Matematicas avanzadas]]
+- 

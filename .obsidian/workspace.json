@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "26f22c5b60269bbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b352d441264681eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25525245056db64f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maximización de la utilidad y el equilibrio del consumidor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6445963707f8701",
+    "type": "split",
+    "children": [
+      {
+        "id": "490f2e365c1b7870",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ab8516faf85dbb6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "9744863d08b523aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "33ce540290aaa628",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "10171c01c7693ff5",
+    "type": "split",
+    "children": [
+      {
+        "id": "db963377d0a7e9f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9ea4567e032745a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Maximización de la utilidad y el equilibrio del consumidor.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae64d82a6ed7c6c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Maximización de la utilidad y el equilibrio del consumidor.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "415977e7f86dddb4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6dcb8579975f4583",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Maximización de la utilidad y el equilibrio del consumidor.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "25525245056db64f",
+  "lastOpenFiles": [
+    "Utilidad total y Utilidad marginal.md",
+    "Maximización de la utilidad y el equilibrio del consumidor.md",
+    "Fundamentos Económicos.md",
+    "Procesamiento de Lenguaje Natural.md",
+    "16 de octubre 22.md",
+    "17,10,2022.md",
+    "Matematicas avanzadas.md",
+    "El método simplex Dual.md",
+    "071122.md",
+    "Posibilidades de consumo. Restriccion presupuestal.md"
+  ]
+}

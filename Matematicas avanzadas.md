@@ -1,0 +1,4 @@
+- [[17,10,2022]]
+- [[Dualidad y sensibilidad]]
+- [[El método simplex Dual]]  
+- [[]]
