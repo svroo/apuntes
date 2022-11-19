@@ -52,8 +52,11 @@ how likely w is from $\theta_{d}$
 
 $$p^{(n+1)} (w|\theta_{d})=\frac{c(w,d)p^{(n)} (z=0|w )}{\sum_{w' \in V} c(w',d)p^{(n)} (z=0|w' )}~~\rightarrow M-step$$
 
-|word|#|p(w$\mid \theta_B$)|Iteracion 1| | Iteracion 2| | Iteracion 3| |
+Assume $p(\theta_{d})=p(\theta_{B})= 0.5$ and $p(w|\theta_{B})$ is kwnown
+
+| |conteos de palabrea de en articulo 2|probabilidad de palabras de fondo| Probabilidad de palabras del tópico|
 |--|--|--|--|--|--|--|--|--|
+|word|#|p(w$\mid \theta_B$)|Iteracion 1| | Iteracion 2| | Iteracion 3| |
 | | | |P(w$\mid \theta$)| p(z=0$\mid$w)|p(w$\mid \theta$)|p(z=0$\mid$w)|p(w$\mid\theta$)|p(z=0$\mid$w)| 
 |The|4|0.5|**0.25**|0.33|**0.20**|0.29|**0.18**|0.26|
 |Paper| 2|0.3|**0.25**|0.45|**0.14**|0.32|**0.10**|0.25|
@@ -61,3 +64,34 @@ $$p^{(n+1)} (w|\theta_{d})=\frac{c(w,d)p^{(n)} (z=0|w )}{\sum_{w' \in V} c(w',d)
 |Mining|2|0.1|**0.25**|0.71|**0.22**|0.69|**0.22**|0.69|
 |Long-likelihood |||| -16.96||-16.13||-16.02|
 
+<div align='right'><p>17 de octubre del 2022</p></div>
+
+``` mermaid
+flowchart TD
+A[e96040l_mod.xml]--> B[Segmentar en artículos] -->C[Normalizar cada artículo]  
+C --> D[Obtener probabilidades del fondo para palabras en V] --> np.array
+C --> E[eliminar xml, caracteres no letras, stopwords]
+```
+
+
+```mermaid
+flowchart TD
+A[Inicializr probabilidades del tópico probabilidad de la palabra igual uno sobre V] --> B[Articulo n3 del e96040Lmod.xml]
+B --> C[Obtener conteo de cada palabra del V en el articulo 2] 
+C --> np.array
+C --> D[Funcion e_step funcion m-step función para cálculo de verosimilitud]
+```
+
+Funcion de verosimilitud: $log(p(articulo_{2}|modelo)) = \sum_{i=1}^{|V|}(conteo de w_{i}) + log(p(\theta_{B}) * p(W_{2}|\theta_{B}) +p(\theta_{d}) * p(w_{i}|\theta_{d}) ~~ \rightarrow algoritmo EM(tres funciones)$  Ordenar probabilidades del fondo y del topico e imprimir las primeras 10
+
+```python3
+f = open('articule_lemmatize')
+text = f.read()
+f.close()
+
+words = nltk.word_tokenize(text)
+
+count = []
+
+for voc in vocabulary count 
+```

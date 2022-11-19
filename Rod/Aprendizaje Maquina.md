@@ -4,3 +4,4 @@
 ## Unidad 2
 Aprendizaje supervisado
 - [[Regresion Lineal y correlación]] 
+- [[Practica 3]] 
