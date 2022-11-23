@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practica 3.md",
+                "file": "La empresa y su problema economico.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "10171c01c7693ff5",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practica 3.md",
+                "file": "La empresa y su problema economico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Practica 3.md",
+                "file": "La empresa y su problema economico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Practica 3.md"
+                "file": "La empresa y su problema economico.md"
               }
             }
           }
@@ -139,15 +140,15 @@
   },
   "active": "25525245056db64f",
   "lastOpenFiles": [
+    "Fundamentos Económicos.md",
+    "Clase 18 de noviembre.md",
+    "17,10,2022.md",
+    "16 de noviembre 22.md",
+    "Procesamiento de Lenguaje Natural.md",
+    "Practica 3.md",
     "Pasted image 20221118181027.png",
     "Pasted image 20221118181454.png",
-    "Practica 3.md",
     "Pasted image 20221109152437.png",
-    "Pasted image 20221109152429.png",
-    "Pasted image 20221109152409.png",
-    "Pasted image 20221024091209.png",
-    "Pasted image 20221018154746.png",
-    "Pasted image 20221018154703.png",
-    "Pasted image 20221018154652.png"
+    "Pasted image 20221109152429.png"
   ]
 }

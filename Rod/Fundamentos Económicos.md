@@ -10,4 +10,4 @@
 - [[Utilidad total y Utilidad marginal]] 
 - [[Maximización de la utilidad y el equilibrio del consumidor]] 
 - [[Clase 18 de noviembre]]
-- 
+- [[La empresa y su problema economico]] 

@@ -1,4 +1,3 @@
-
 ### Computation of Maximum likelihood estimate
 Maximiza $p(d|\theta)$ : $(\theta_{1},\dots, \theta_{M}) = arg~max_{\theta_{1},\dots,\theta_{M}}~~p(d|\theta)=arg~max_{\theta_{1},\dots,\theta_{M}}~~\prod_{i=1}^{M} \theta_{i}^{c(w_{i},d)}$ 
 Max. log-likelihood

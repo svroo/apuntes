@@ -20,3 +20,5 @@ b) **Persona moral:** es un conjunto de personas físicas que se unen con un fin
 
 ## La empresa y su problema económico
 Investigar sobre el tema, de forma impresa.
+
+[[Fundamentos Económicos]]
