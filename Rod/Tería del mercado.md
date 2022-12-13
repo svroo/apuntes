@@ -1,0 +1,9 @@
+- Demanda
+- Precio
+- Oferta
+- Mercado
+- Regulador
+- Equilibrio
+- Ley de la oferta
+- Elasticidad
+- Ley de la demanda

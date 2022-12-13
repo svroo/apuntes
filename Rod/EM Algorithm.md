@@ -83,14 +83,29 @@ C --> D[Funcion e_step funcion m-step función para cálculo de verosimilitud]
 
 Funcion de verosimilitud: $log(p(articulo_{2}|modelo)) = \sum_{i=1}^{|V|}(conteo de w_{i}) + log(p(\theta_{B}) * p(W_{2}|\theta_{B}) +p(\theta_{d}) * p(w_{i}|\theta_{d}) ~~ \rightarrow algoritmo EM(tres funciones)$  Ordenar probabilidades del fondo y del topico e imprimir las primeras 10
 
-```python3
-f = open('articule_lemmatize')
-text = f.read()
-f.close()
+<div align='right'><p>Miercoles 23 de Noviembre 2022</div>
+#### Probabilistic Latents Semantic Analysis (PLSA)
+formula: 
+$(1-\lambda_{B}) p(\theta_{1})p(w\mid\theta_{1}) ~~ \rightarrow$ Topic $\theta_1$ = $p(\theta_1)=\pi_{d,1}$
++
+$(1-\lambda_{B}) ~p(\theta_{2})~p(w\mid\theta_{2})~~\rightarrow$ Topic $\theta_{2}$ 
++
+$(1-\lambda_{B}) ~p(\theta_{3})~p(w\mid\theta_{3})~~\rightarrow$ Topic $\theta_{3}$ 
++
+$\lambda_{B}~p(w\mid\theta_{B})~~\rightarrow$ background
 
-words = nltk.word_tokenize(text)
+Formula:
+$p_{d}(w)=\lambda_{B}~p(w\mid\theta_{B })+(q-\lambda_{B})\sum_{j=1}^{k} \pi_{d,j}p(w\mid\theta_{j})$ 
+Verosimilitud de un documento $log~p(d) = \sum_{w \in V} c(w,d) log[\lambda_{B}p(w\mid\theta_{B})+(1-\lambda_{b}) \sum_{j=1}^{k} \pi_{d,j}p(w\mid\theta_{j})]$
 
-count = []
+#### Summary
+- PLSA  = mixture model with k unigram LMs (k topics)
 
-for voc in vocabulary count 
-```
+#### PLSA with prior knowledge
+- Users may habe expectations about wich topics to analyze:
+	- We expect to see "retrieval models" as a topic in IR 
+	- We want to see aspects such as "batery" and "memory" for opinions 
+
+Dirichlet distribution
+
+Paqueteria a utilizar GENSIM

@@ -11,3 +11,14 @@
 - [[Maximización de la utilidad y el equilibrio del consumidor]] 
 - [[Clase 18 de noviembre]]
 - [[La empresa y su problema economico]] 
+- [[Actividad 3]]
+- [[Actividad 4]]
+- [[Activiidad 5]] 
+- [[Teoría de producción de corto y de largo plazo]] 
+- [[Teoria de costos de corto y de largo plazo]]  
+- [[Equilibrio de producción de bienes y servicios]] 
+
+### Tercer parcial
+- [[Tería del mercado]] 
+- [[Actividad en clase]] 
+- [[Demanda]] 

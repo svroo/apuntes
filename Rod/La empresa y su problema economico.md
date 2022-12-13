@@ -54,11 +54,3 @@ Es un proceso complejo, que requiere de distintos factores que pueden dividirse 
 
 
 [[Fundamentos Económicos]]
-
-bbva 
-Número de cuenta: 
-1500641042
-cuenta clabe:
-012180015006410429
-Tarjeta de débito:
-4152313556754724

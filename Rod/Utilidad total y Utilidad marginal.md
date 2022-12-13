@@ -35,8 +35,8 @@ Le decimos a Elizabeth que queremos medir la utilidad que obtiene de estos dos b
 Es el cambio en la utilidad total que resulta del incremento de una unidad en la cantidad consumida de un bien. 
 $$U_{M}=\frac{\Delta UT_{x}}{\Delta X}  = \frac{UTx_{2}-UTx_{1}}{x_{2}-x_{1}}$$
 
-|Peliculas |||Refresco|||
-|--|--|--|--|--|--|--|
+|Peliculas |||Refresco||
+|--|--|--|--|--|--|
 | Cantidad por mes| Utilidad total| Utilidad margina|Casos(por mes)|Utilidad total| Utilidad marginal
 |0|0|50|0|0|75|
 |1|50|40|1|75|48|
