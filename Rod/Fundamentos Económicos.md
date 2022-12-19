@@ -22,3 +22,4 @@
 - [[Tería del mercado]] 
 - [[Actividad en clase]] 
 - [[Demanda]] 
+- [[Elasticidad de la demanda y la oferta]] 

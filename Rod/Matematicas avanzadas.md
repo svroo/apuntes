@@ -8,3 +8,4 @@
 - [[Clase avanzadas 30 noviembre]] 
 - [[Portafolios con multiples activos]] 
 - [[Repaso de Cálculo para optimización]] 
+- [[Busqueda de Fibonacci]] 

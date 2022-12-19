@@ -48,3 +48,78 @@ $$\vec{x}^{t}~~H~\vec{x}\leq 0~~~~~\forall~\vec{x}\in\mathbb{R}^{n}$$
 
 ###### Teorema:
 Sea $f:S\leq\mathbb{R}^{n}\rightarrow \mathbb{R},S$ abierto y $f\in \zeta^{2}(S)$. Si $\vec{x}^{*}$ es un punto crítica de f en S y si el Hebiano de f evaluado en $\vec{x}^{*}$ $(H_{t}(\vec{x}^{*}))$ es positiva definida entonces f tiene un mínimo local en $\vec{x}^{*}$. Por otra parte si $H_{t}~(\vec{x}^{*})$ es negativo definido $\vec{x}^{*}$ es máximo local.
+
+<div align='right'><h4>14/12/2022</h4></div>
+1. $xk$ 
+2. dk
+3. $\lambda K$
+4. $x_{\lambda~k}=x_{\mu}+\lambda_{\mu}dk$ 
+
+Se van a realizar algoritmos de busqueda lineal de la forma:
+$min~f(x) \rightarrow f:~\mathbb{R}^{n} \rightarrow \mathbb{R}$ $x\in C$ 
+
+Investigar que es una matriz cuasiconvexa
+
+#### Teorema 8.1.1
+Sea $\theta:\mathbb{R}\rightarrow \mathbb{R}$ una función cuasiconvexa sobre el intervalo $[a,b]$, Sea $\lambda,~\mu t[a,b]$ tal que $\lambda<\mu$. Si $\theta(\lambda)>\theta(\mu)$; entonces $\theta(Z)\geq \theta(\mu)~~\forall~z\in[a,\lambda]$. Si $\theta(\lambda)\leq\theta(\mu)$ entonces $\theta(Z)\leq\theta(\lambda)~\forall~Z\in(\mu,b]$.
+
+El resultado anterior (8.1.1) da lugar al método de busqueda uniforme. Consideramos los puntos:
+$$t_{i}= a+i\frac{b-a}{n},~~i=0,\dots,n$$
+a la que llamaremos $\hat{\lambda}=min~\theta(t_{i})$  
+
+### Busqueda dicotómica
+Consideramos $\theta : \mathbb {R} \rightarrow \mathbb{R}$ la función a minimizar sobre el intervalo $[a,b]$. Supongamos que $\theta$ es estrictamente cuasiconvexa consideramos dos puntos $\lambda_{i}$ y $\mu_{i}$ en virtud de el nuevo intervalo de incertidumbre es $[a_{i},\mu_{i}]$ si $\theta(\lambda_{i})<\theta(\mu_{i})$ y si $\theta(lambda_{i})>\theta(\mu_{i})$ entonces el nuevo intervalo de incertidumbre es $[\lambda_{i}, b_{i}]$. Sin embargo no sabemos a priori la colocación de $\lambda_{i},\mu_{i}$, pero se puede demostrar que dicha colocación debe ser simétrica respecto del origen.
+
+#### Algoritmo de busqueda dicotomica.
+Inicialización, Escoje una constante $2~\epsilon>0$ y defina la longitud de incertidumbre final como $\ell>0$. Sea $[a,b_{i}]$ el intervalo inicial de incertidumbre, sea $k=1$, vaya al paso principal
+
+##### Paso principal
+1. Si $b_{k}-a_{k} < \ell$ para el punto mínimo cae en el intervalo $[a_{ki}, b_{k}]$. De otra forma, considere $\lambda_{k}$ y $\mu_{k}$ definida como sigue:
+$$\lambda_{k}=\frac{a_{b}+b_{k}}{z} - \epsilon,~~~\mu_{k}=\frac{a_{k}+b_{k}}{z} + \epsilon$$
+2. Si $\theta(\lambda_{k})<\theta(\mu_{k})$, sea $a_{k+1}=a_{k}$ y $b_{k+1}=\mu_{k}$ De otra forma $a_{k+1}=\lambda_{x}$ y $b_{k+1}=b_{k}$. Reemplaze k por $k+1$ 
+**Nota:** La longitud del intervalo de incertidumbre en el paso $k+1$ es:
+$$b_{k+1}-a_{k+1} = \frac{1}{2^{k}}(b_{i}-a_{i}) + 2~\epsilon(1-\frac{1}{2^{k}})$$
+entonces quedaria de la siguiente manera:
+$$\frac{b-a}{2}$$ 
+### Método de la sección dorada
+Para comparar los métodos de busqueda lineal utilizaremos el siguiente radio:
+
+$$r(\nu) =\frac{longitud~del~intervalo~de~incertidumbre~después~de~\nu~observaciones}{longitud~del~intervalo~de~incertidumbre~antes~de~tomar~las~observaciones}$$
+
+En la iteración general k del método, consideramos el intervalo de incertidumbre como $[a_{n},b_{k}]$. Utilizamos nuevamente el terorema 8.1.1, el nuevo intervalo de incertidumbre $[a_{k+1},b_{k+1}]$ esta dado por $[\lambda_{k},~b_{k}]$ si $\theta(\lambda_{k})>\theta(\mu_{k})$ y $[a_{k},~\mu_{k}]$ si $\theta(\lambda_{k})\leq\theta(\mu_{k})$. Los puntos $\lambda_{k}$ y $\mu_{k}$ son seleccionados de la siguiente forma.
+
+1. La longitud del nuevo intervalo de incertidumbre $b_{k+1}-a_{k+1}$ no depende del resultado de la k-ésima iteración, esto es, si$\theta(\lambda_{k})>\theta(\mu_{k})$ o $\theta(\lambda_{k})\leq\theta(\mu_{k})$. Por tanto debemos tener $b_{k}-\lambda_{k}=\mu_{k}-a_{k}$ 
+2. Asi $\lambda_{k+1}$ y $\mu_{k+z}$ son seleccionadas con el proposito de que en una nueva iteración $\lambda_{k+1}$ coincida con $\mu_{k}$ o $\mu_{k+1}$ concida con $\lambda_{k}$. Si esto puede ser realizado, entonces durante la iteración $k+1$ solo una observacion extra es nesesaria.
+
+#### Caso 1.
+$\theta(\lambda_{k})>\theta(\mu_{k})$. En este caso $a_{k+1}= \lambda_{k}$ y $b_{k+1}=b_{k}$. Para satisfacer que $\mu_{k}=\lambda_{k+1}=a_{n+1}+(1-\alpha)(b_{k+1}-a_{k+1}) = \lambda_{k} + (1-\alpha)(b_{k}-\lambda_{k})$ 
+
+8.1 : $\lambda_{k}=a_{k}+(1-\alpha)(b_{k}-a_{k})$ 
+8.2 : $\mu_{k}= a_{k}+\alpha(b_{k}-a_{k})$
+
+Sustituyendo las expresiones de $\lambda_{k}$ y $\mu_{k}$ de 8.1 y 8.2:
+
+$$a_{k}+\alpha (b_{k}-a_{k})=a_{k}+(1-\alpha) (b_k-a_{k}) + (1-\alpha) (b_{k}-a_{k}-(1-\alpha)(b_{k}-a_{k}))$$
+
+$$=(1-\alpha)[(b_{k}-a_{k})+(b_{k}-a_{k})-(1-\alpha)(b_{k}-a_{k})] = (1-\alpha)[(b_{k}-a_{k})(1+\alpha )]$$
+
+$$\alpha=1-\alpha^{2}\rightarrow \alpha^{2}+\alpha-1 = 0~~luego~~\alpha=0.618$$
+
+De manera analoga en el caso 2 se obtiene la misma ecucación para $\alpha$ 
+
+#### Algoritmo de sección dorada
+**Inicialización:** Escoja una longitud admisible en el intervalo $\{a_{1},~b_{1} \}$ el intervalo de incertidumbre inciial y sea $\lambda_{i}=a_{i}+(1-\alpha)(b_{i}-a_{i})$ y $\mu_{i}= a_{i}+\alpha(b_{i}a_{i})$, donde $\alpha = 0.618$. Entre $\theta(\lambda_{i})$ y $\theta(\mu_{i})$, sea $k=1$ vaya al paso principal
+
+
+###### Paso principal
+1. Si $b_{k}-a_{k}<\ell$ pare, la solución optima cae en eintervalo $[{a_{k},b_{k}}]$. De otra forma, si $\theta(\lambda_{k})>\theta(\mu_{k})$ vaya al paso 2; y si $\theta(\lambda_{k})\leq\theta(\mu_{k})$ vaya al paso 3
+2. Sea $a_{k+1}=\lambda_{k}$ y $b_{k+1}=b_{k}$ y además.. $\lambda_{k+1}= \mu_{k}$ y $\mu_{k+1}=a_{k+1}+\alpha(b_{k+1}-a_{k+1})$. Evalues $\theta(\mu_{k+1})$ vaya al paso 4
+3. Sea $a_{k+1}= a_{k}$ y $b_{k+1}=\mu_{k}$, con $\mu_{k+1} = \lambda_{k}$ y sea $\lambda_{k+1}= a_{k+1}+(1-\alpha)(b_{k+1}-a_{k+1})$. Evalue $\theta(\lambda_{k+1})$ y vaya al paso 4.
+4. Reemplace k por $k+1$ y vaya al paso 1.
+
+|Minimize|$\lambda^{2}+2\lambda$|
+|---|--|
+| |$-3\leq\lambda\leq5$|
+(pagina 351)
+
+[[Matematicas avanzadas]] 
