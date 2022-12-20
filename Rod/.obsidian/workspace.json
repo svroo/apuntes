@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clase de pnl 15 del 12.md",
+                "file": "Mineria de opinion y analisis de sentimientos.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "10171c01c7693ff5",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "clase de pnl 15 del 12.md",
+                "file": "Mineria de opinion y analisis de sentimientos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "clase de pnl 15 del 12.md",
+                "file": "Mineria de opinion y analisis de sentimientos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "clase de pnl 15 del 12.md"
+                "file": "Mineria de opinion y analisis de sentimientos.md"
               }
             }
           }
@@ -139,14 +140,14 @@
   "active": "2f21c8a1d415171c",
   "lastOpenFiles": [
     "Procesamiento de Lenguaje Natural.md",
-    "Busqueda de Fibonacci.md",
+    "Quinto Semestre.md",
+    "8.2 Busqueda sobre lineas usando derivadas..md",
     "Matematicas avanzadas.md",
+    "clase de pnl 15 del 12.md",
+    "Busqueda de Fibonacci.md",
     "Repaso de Cálculo para optimización.md",
     "Elasticidad de la demanda y la oferta.md",
     "Fundamentos Económicos.md",
-    "Practica 5.md",
-    "Aprendizaje Maquina.md",
-    "Actividad en clase.md",
-    "Demanda.md"
+    "Practica 5.md"
   ]
 }

@@ -9,3 +9,4 @@
 - [[Portafolios con multiples activos]] 
 - [[Repaso de Cálculo para optimización]] 
 - [[Busqueda de Fibonacci]] 
+- [[8.2 Busqueda sobre lineas usando derivadas.]] 
