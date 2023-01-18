@@ -72,7 +72,7 @@ $$\%\Delta~Q=\Delta~Q/Q_{prom}*100=(2~pizzas/10~pizzas)*100=0.2*100=20\%$$
 
 El cambio en la cantidad demandada es de 2 pizzas más. La cantidad promedio es de 10 pizzas, así que la cantidad demandada aumenta 20%
 
-El cambi en el ingreso es de 50 dolares más y el ingreso pormedio es de 1000 dólares, de manera que el ingreso aumenta 5%
+El cambio en el ingreso es de 50 dolares más y el ingreso pormedio es de 1000 dólares, de manera que el ingreso aumenta 5%
 Sustituimos:
 Elasticidad ingreso de la demanda=$\frac{20\%}{5\%}= 4$ por lo que es un bien normal de lujo
 
@@ -125,3 +125,17 @@ El cambio en el precio de las bebidas embotelladas, un incremento de 1 dólar, d
 Elasticidad cruzada de la demanda
 
 ![[Pasted image 20221214162836.png]]
+
+<div align='right'><h4>21/12/2022</h4></div>
+### Oferta
+Es la cantidad de bienes o sericios que un cierto número de oferentes (produtores) está dispuesto a poner a disposición del mercado a un precio determinado.
+
+## 3.3.1 Factores de la oferta y ley de la oferta.
+- Precios de otros bienes.
+- Precios de los bienes relacionados.
+- Precios de los insumos (factores de producción).
+- Los precios futuros esperados.
+- Cambios en la tecnología.
+- Número de vendedores.
+
+Si hay un desplazamiento hay elasticidad.

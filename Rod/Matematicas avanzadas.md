@@ -10,3 +10,6 @@
 - [[Repaso de Cálculo para optimización]] 
 - [[Busqueda de Fibonacci]] 
 - [[8.2 Busqueda sobre lineas usando derivadas.]] 
+- [[Método de las coordenadas ciclicas]] 
+- [[8.8 Modelos usando direcciones conjugadas Métodos Cuasi-Newton y Gradiente conjugado]]
+- 
