@@ -39,7 +39,7 @@ $10\leftarrow~Q_{prom}$
 
 $$\%\Delta~Q=\Delta~Q/Q_{prom}*100=(2/10)*100=0.2*100=20\%$$
 Reemplazando los datos obtenemos:
-$$Epd=\frac{\%\Delta~Q}{\%\Delta~P}= \frac{510}{5}=\%4$$
+$$Epd=\frac{\%\Delta~Q}{\%\Delta~P}= \frac{20}{5}=\%4$$
 Es elastica
 
 <div align='center'><img src="https://www.auladeeconomia.com/elasticidad.gif"></div>

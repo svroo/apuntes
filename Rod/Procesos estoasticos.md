@@ -1,0 +1,6 @@
+- [[clase 21feb2023]] 
+- [[Clase 22 feb 23]] 
+- [[Clase 23 03 23]] 
+- [[clase 27 02 23]] 
+- [[Clase 01 marzo 23]]
+- 

@@ -1,7 +1,7 @@
 "Es la cantidad de bienes y servicios que el mercado requiere o solicita para buscar la satisfacción de una necesidad específica a un precio determindao".
 
 **La demanda es función de una serie de factores,** como son:
-- La necesidad real que se tiene de l bien o servicio.
+- La necesidad real que se tiene del bien o servicio.
 - Su precio.
 - El nivle de ingreso de la población, etc.
 
@@ -13,7 +13,7 @@ En **relación con su opotunidad,** existen dos tipos:
 	- **Satisfecha no saturada,** que es la que se encuantra aparentemente satisfecha, pero que se puede hacer crecer mediante el uso adecuado de herramientas mercadotécnicas, como las ofertas y la publicidad.
 
 En **relación con su necesidad,** existen dos tipos:
-- **Demanda de bienes social y nacionalmente necesarios,** que son los que la sociedad requiere para su desarrollo y crecimiento, y están relacionados con la alimentación, el vestido, la vivienda, etx.
+- **Demanda de bienes social y nacionalmente necesarios,** que son los que la sociedad requiere para su desarrollo y crecimiento, y están relacionados con la alimentación, el vestido, la vivienda, etc.
 - **Demanda de bienes no necesarios o de gusto,** que es prácticamente el llamado consumo santuario, como la adquisición de perfumes, ropa fina y otros bienes de este tipo. (se satisface un gusto y no una necesidad).
 
 En **relación con su temporalidad,** existen dos tipos:
