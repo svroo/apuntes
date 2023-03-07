@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5bc9fa815ceb26fc",
+        "id": "532023460a6c3a6b",
         "type": "tabs",
         "children": [
           {
-            "id": "9d5dce42142aeb8c",
+            "id": "7d565d7536366720",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "clase 3 de marzo.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "clase 3 de marzo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "clase 3 de marzo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "clase 3 de marzo.md"
+              }
             }
           }
         ]
@@ -139,18 +147,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d5dce42142aeb8c",
+  "active": "7d565d7536366720",
   "lastOpenFiles": [
+    "Analisis de series de Tiempo.md",
+    "Modulado Predictivo.md",
+    "clase 06/03 procesos.md",
+    "Procesos estoasticos.md",
+    "clase 06",
+    "clase 6 marzo modulado.md",
+    "clase 3 de marzo.md",
+    "clase estocasticos 3 de marzo.md",
+    "clase 2 de marzo procesos estocasticos.md",
+    "clase 2 de marzo modulado.md",
     "clase 2 de marzo.md",
     "clase 20 de enero 2023.md",
-    "Analisis de series de Tiempo.md",
     "Clase 23 febrero 23.md",
     "Clase 01 marzo 23.md",
-    "Procesos estoasticos.md",
     "clase 21feb2023.md",
     "clase 27 02 23.md",
     "clase 27 febrero.md",
-    "Modulado Predictivo.md",
     "Clase 23 03 23.md",
     "Clase 23 feb2023.md",
     "Untitled.md",

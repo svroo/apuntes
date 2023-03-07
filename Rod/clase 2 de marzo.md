@@ -77,3 +77,9 @@ Puede ser definida como:
 $$\hat{p}(h)=\frac{\hat{\gamma(h)}}{\hat{\gamma}(0)}$$
 se puede estimar todo siempre y cuando asumamos que los datos son estacionarios.
 
+#### Large-Sample distribution of the ACF
+Bajo las conidciones generales: si $X_{T}$ es ruido blanco para cada n large, el ejemplo ACF$\hat{p_{X}}(h)$ para $h=1,2,\cdots,H$ donde H es fixed but arbitrary es aproximada a la distribucion normal con media cero y lllllla desviacion estandar esta dada por:
+
+$$\sigma_{\hat{p}x}=\frac{1}{\sqrt{N}}$$
+
+Basado en los resultados previos, we obtain a rough method of assesing if peaks in $\hat{p}x$ son significantes para dterminar si estan fuera del intervalo $+-2\sigma_{\hat{p}x}$ 

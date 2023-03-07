@@ -3,4 +3,6 @@
 - [[Clase 23 03 23]] 
 - [[clase 27 02 23]] 
 - [[Clase 01 marzo 23]]
-- 
+- [[clase 2 de marzo procesos estocasticos]] 
+- [[clase estocasticos 3 de marzo]] 
+- [[clase 06/03 procesos]] 

@@ -1,3 +1,4 @@
 - [[clase 20 de enero 2023]] 
 - [[Clase 23 febrero 23]] 
 - [[clase 2 de marzo]] 
+- [[clase 3 de marzo]] 
