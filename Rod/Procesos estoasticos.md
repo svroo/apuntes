@@ -6,3 +6,4 @@
 - [[clase 2 de marzo procesos estocasticos]] 
 - [[clase estocasticos 3 de marzo]] 
 - [[clase 06/03 procesos]] 
+- [[clase 08 de marzo]] 

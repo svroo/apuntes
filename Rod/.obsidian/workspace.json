@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clase 3 de marzo.md",
+                "file": "clase 9 de marzo modulado.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "clase 3 de marzo.md",
+                "file": "clase 9 de marzo modulado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "clase 3 de marzo.md",
+                "file": "clase 9 de marzo modulado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "clase 3 de marzo.md"
+                "file": "clase 9 de marzo modulado.md"
               }
             }
           }
@@ -149,13 +149,16 @@
   },
   "active": "7d565d7536366720",
   "lastOpenFiles": [
-    "Analisis de series de Tiempo.md",
     "Modulado Predictivo.md",
-    "clase 06/03 procesos.md",
-    "Procesos estoasticos.md",
-    "clase 06",
-    "clase 6 marzo modulado.md",
+    "clase 9 de marzo modulado.md",
+    "clase 9 marzo series.md",
+    "Analisis de series de Tiempo.md",
     "clase 3 de marzo.md",
+    "clase 08 de marzo.md",
+    "Procesos estoasticos.md",
+    "clase 6 marzo modulado.md",
+    "clase 06/03 procesos.md",
+    "clase 06",
     "clase estocasticos 3 de marzo.md",
     "clase 2 de marzo procesos estocasticos.md",
     "clase 2 de marzo modulado.md",
