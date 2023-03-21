@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clase 9 de marzo modulado.md",
+                "file": "Clase 17 marzo procesos.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "clase 9 de marzo modulado.md",
+                "file": "Clase 17 marzo procesos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "clase 9 de marzo modulado.md",
+                "file": "Clase 17 marzo procesos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "clase 9 de marzo modulado.md"
+                "file": "Clase 17 marzo procesos.md"
               }
             }
           }
@@ -149,15 +149,25 @@
   },
   "active": "7d565d7536366720",
   "lastOpenFiles": [
+    "Procesos estoasticos.md",
+    "Clase 17 marzo procesos.md",
+    "Introduccion.md",
+    "Temas selectos de IA.md",
+    "clase 16 marzo procesos.md",
+    "clase 16 marzo modulado.md",
     "Modulado Predictivo.md",
+    "clase 16 de marzo series.md",
+    "Analisis de series de Tiempo.md",
+    "Clase 15 de marzo procesos.md",
+    "clase 13 de marzo estocasticos.md",
+    "clase 13 03 modulado.md",
+    "clase 06 03 procesos.md",
+    "clase 06/03 procesos.md",
     "clase 9 de marzo modulado.md",
     "clase 9 marzo series.md",
-    "Analisis de series de Tiempo.md",
     "clase 3 de marzo.md",
     "clase 08 de marzo.md",
-    "Procesos estoasticos.md",
     "clase 6 marzo modulado.md",
-    "clase 06/03 procesos.md",
     "clase 06",
     "clase estocasticos 3 de marzo.md",
     "clase 2 de marzo procesos estocasticos.md",
@@ -165,15 +175,6 @@
     "clase 2 de marzo.md",
     "clase 20 de enero 2023.md",
     "Clase 23 febrero 23.md",
-    "Clase 01 marzo 23.md",
-    "clase 21feb2023.md",
-    "clase 27 02 23.md",
-    "clase 27 febrero.md",
-    "Clase 23 03 23.md",
-    "Clase 23 feb2023.md",
-    "Untitled.md",
-    "Clase 22 feb 23.md",
-    "practica uno Modelado predictivo.md",
-    "Sexto Semestre.md"
+    "Clase 01 marzo 23.md"
   ]
 }
