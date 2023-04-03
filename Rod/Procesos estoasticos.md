@@ -1,3 +1,4 @@
+Primer Parcial:
 - [[clase 21feb2023]] 
 - [[Clase 22 feb 23]] 
 - [[Clase 23 03 23]] 
@@ -7,7 +8,12 @@
 - [[clase estocasticos 3 de marzo]] 
 - [[clase 06 03 procesos]] 
 - [[clase 08 de marzo]] 
+- [[clase 10 de marzo estocasticos]] 
 - [[clase 13 de marzo estocasticos]] 
 - [[Clase 15 de marzo procesos]] 
 - [[clase 16 marzo procesos]] 
 - [[Clase 17 marzo procesos]] 
+- [[Clase 22 marzo procesos]] 
+- [[clase 27 de marzo]] 
+- [[Clase 30 marzo procesos]] 
+[[Resumen primer parcial]] 

@@ -1,1 +1,4 @@
 - [[Introduccion]] 
+- [[clase 21 marzo ]] 
+- [[Matematicas para computo cuantico]] 
+- [[clase 28 de marzo temas selectos]] 

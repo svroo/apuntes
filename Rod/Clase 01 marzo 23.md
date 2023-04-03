@@ -59,5 +59,15 @@ $$P(x~ocurre~en~el~k-esimo~~ensayo)=\frac{\lambda^{k}}{k!}e^{-k}$$
 $$\mathbb{E}[X]=\sum\limits_{k=1}^{\infty}k\frac{\lambda^{k}}{k!}e^{-\lambda}=e^{-\lambda}\sum\limits_{k=1}^{\infty}\frac{\lambda^{k}}{(k-1)!}$$
 $$\mathbb{E}[X]=\lambda e^{-\lambda}\sum\limits_{k=1}^{\infty}\frac{\lambda^{k-1}}{(k-1)!}=\lambda e^{-k}\left(\sum\limits_{\ell=0}^{\infty}\frac{\ell ^{\ell}}{\ell!}\right)=\lambda$$
 
-# Ejercicio calcular varianza de puason
+# Ejercicio calcular varianza de poisson
+$$Var = \mathbb{E}(x^{2})- [\mathbb{E} (x)]^{2}$$
+Encontraremos:
+$$\mathbb{E}(x^{2})=\sum\limits_{k=0}^{\infty}k^{2}p(x=k)$$
+Utilizaremos la formula de la exponencial:
+$$$ \mathbb{E}[x^{2}]=\sum\limits_{k=0}^{\infty}k^{2}p(x=k)$$
+
+$$=\sum\limits_{k=0}^{\infty} k(k-1)+k*p(x=k)=\sum\limits_{k=0}^{\infty}k(k-1)p(x=k)+\sum\limits_{k=0}^{\infty}k*p(x=k)$$
+$$=\lambda*\sum\limits_{k=2}^{\infty} \left[\frac{(e^{-\lambda} \lambda^{k-2})} {(k-2)!}\right] +\lambda=\lambda*e^{-\lambda} \lambda^{2} \sum\limits_{k=0}^{\infty}\left[\frac{(\lambda^{k-2})}{(k-2)!} \right]+\lambda=\lambda^{2}+\lambda$$
+Entonces tenemos:
+$$Var(x)=\lambda^{2}+\lambda -[\lambda^{2}]=\lambda$$
 
