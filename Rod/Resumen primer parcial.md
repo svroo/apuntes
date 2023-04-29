@@ -1,18 +1,25 @@
-# Repositorio de libros
+-# Repositorio de libros
 gen.lib.rus.ec
 Programar en julia, python, r
 
 # Procesos estocásticos
+Se refiere a un ocnepto matemático que es de gran utilidad para usar magnitudes aleatorias que cambian en el transcurso del tiempo o para identificar la sucesión de las variables aleatorias que se transforman en función a otras variables.
+
 $E=P(A)$
 $P:E \rightarrow [0,1]$
 1. $P(0) =0,~P(A)=1,~P(B^{C}=1.P(B))$
 2. $P(A~U~B) = P(A) + P(B),~~A\cap B$ 
+
+Para un proceso estocastico necesitamos ciertas cosas, como:
 1. Experimeto
 2. Resultados
 3. Espacio muestral (resultado de los experimentos)
 4. Eventos con conjuntos en el espacio muestral
 
 ### Probabilidad condicional
+También llamada **probabilidad condicionada**, es una medida estadística que indica la probabilidad de que ocurra un evento A si otro evento B ha sucedido. Es decir, la probabilidad condicional $P(A\mid B)$ se refiere a cuánto de probable es que suceda el evento A una vez ya se ha producido el evento B.
+
+La formula con la que obtenemos esta probabilidad es:
 $$P(R\mid S) = \frac{P(R\cap S)}{P(S)} = \frac{P(R,S)}{P(S)}$$
 $$P(S\mid R) = \frac{P(R\cap S)}{P(R)}=\frac{P(R,S)}{P(R)}$$
 
@@ -23,22 +30,31 @@ $P(R\mid S) P(S) = P(S\mid R) ~P(R)$
 $P(R\mid S) = P(S\mid R) ~\frac{P(R)}{P(S)}$ Regla de Bayes
 
 ### Independencia de eventos
+Definición de evento:
+En la teoría de la probabilidad y los procesos estocásticos, un evento se define como un subconjunto del espacio muestral, es decir, un conjunto de resultados posibles del experimento. Los eventos son de gran importancia en la teoría de la probabilidad porque permiten la identificación de los resultados de interés en un experimento y el cálculo de sus respectivas probabilidades. Existen diferentes tipos de eventos, incluyendo eventos simples, eventos compuestos, eventos mutuamente excluyentes y eventos independientes. Los eventos simples consisten en un único resultado posible, mientras que los eventos compuestos son aquellos que constan de más de un resultado posible. Los eventos mutuamente excluyentes son aquellos que no pueden ocurrir simultáneamente, mientras que los eventos independientes son aquellos cuya ocurrencia o no ocurrencia no afecta la probabilidad de la ocurrencia de otros eventos. La probabilidad de un evento se puede calcular mediante la suma de las probabilidades de los resultados que conforman el evento. Esto se puede expresar matemáticamente como:
+$$P(A)=\sum\limits_{i=1}^{n}P(A_{i})$$
+donde A es el evento de interés, $A_{i}$ son los resultados que conforman el evento A y n es el número total de resultados en el espacio muestral.
 
+Independecia de eventos:
+Decimos que dos eventos son independientes cuando la probabilidad conjunta es diferente es el producto de sus probabilidades
 $P(R\cap S) = P(R\mid S)~P(S)$
 $P(R,S) = P(R) P(S)$
 
-Decimos que dos eventos son independientes cuando la probabilidad conjunta es diferente es el producto de sus probabilidades
+
 
 ## Variable aleatoria
 
-Es una variable que viene del espacio muestral y toma un valor:
-$X:\Omega \rightarrow \mathbb{R}$
+Es una variable que viene del espacio muestral y toma un valor.
+Donde un espacio muestral es el conjunto de todos los posibles resultados de un experimento aleatorio. Es decir, es el conjunto que contiene todos los posibles resultados de un evento aleatorio y se utiliza como base para la definición de probabilidades y para el análisis de sisitemas estocasticos. y toma un valor:
+$$X:\Omega \rightarrow \mathbb{R}$$
+
 Experimento de lanzar dados:
-$\Omega = \{(i,j): ~ 1 \leq i,j \leq 6\}$ 
-$(i,j) \rightarrow i+j$
-$p(x=5) = p(\{(1,4), (3,2), (2,3), (4,1)\})$
+$$\Omega = \{(i,j): ~ 1 \leq i,j \leq 6\}$$
+$$(i,j) \rightarrow i+j$$
+$$p(x=5) = p(\{(1,4), (3,2), (2,3), (4,1)\})$$
 
 Para calcular el valor de la variable aleatoria se tiene que contar el numero de casos favorables sobre el total de casos
+
 ##### Tarea
 Calcular la media y la desviación estandar del experimento de lanzar dos datos.
 $\mu_{x}= \sum\limits_{k}P(X=k)k$ 
@@ -108,7 +124,7 @@ $$P(a\leq X \leq) = \int_{a}^{b}dF(x) = \int_{a}^{b}f_{x}(x)dx$$
 por tanto se puede calcular la probabilidad de $P(X\leq x) =\int_{-\infty}^{x}f_{x}(t)dt$ 
 El evento seguro sería cuando la variable sea menor a infinito $P(X\leq\infty) = 1 =\int_{-\infty}^{\infty}f_{x}(x) dx$ 
 
-###### Función distribución uniforme 
+## Función distribución uniforme 
 Entre cero y uno
 Para: 
 $$0\leq U\leq1 con~f_{u}(x)=\left\lbrace\begin{matrix} 1&0\leq X\leq 1 \\ 0&caso~contrario\end{matrix}\right.$$
@@ -156,13 +172,13 @@ $hisT:J_{i}\rightarrow n_{i}$
 
 Proposicion.
 Sean los datos D los valores una variable aleatoria X con función de densidad $f_{X}(x)$.
-Entonces $F_{X}(x)=n_{i}$ donde n; es el número de datos que eprtenecen a un intervalo $J_{i}$ deuna partición, que contiene a X.
+Entonces $F_{X}(x)=n_{i}$ donde n; es el número de datos que eprtenecen a un intervalo $J_{i}$ de una partición, que contiene a X.
 
 Prueba.
 Sea $(J_{i})^{2}$ una partición uniforme del intervalo $[0,1]$ con $\mid J_{i}\mid=\frac{1}{N}$, (donde n es el número de muestras generadas), entonces la probabilidad  de que X caiga en $J_{i}$ es $P\left(a_{i}\leq X \leq b_{i}=O_{i}+\frac{1}{N} \right) =F(b_{i})-F(a_{i})$. Por otro lado $P(a_{i}\leq X\leq b_{i})=\frac{n_{i}}{N}$ 
 
 $$F(b_{i})-F(a_{i}) = \frac {n_{i}} {N},~~~~\frac{[F(b_{i})-F(a_{i})]} {\frac{i}{N}=b_{i}-a_{i}}=n_{i}$$ 
-$lim_{N\rightarrow\infty} \frac{F(b_{i})-F(a_{i})}{b_{i}-a_{i}}=F_{X}(a_{i})$ 
+$$lim_{N\rightarrow\infty} \frac{F(b_{i})-F(a_{i})}{b_{i}-a_{i}}=F_{X}(a_{i})$$ 
 
 ###### Varianza
 $$var(X) = \mathbb{E} [X-\mathbb{E}(X)^{2}]=\mathbb{E}[x^{2}-2X\mathbb{E}[X]+\mathbb{E}[X]^{2}]$$
@@ -255,11 +271,12 @@ $$e=lim_{n\rightarrow\infty}\left(1+\frac{x}{n}\right)^{n}$$
 aproximarlo en python
 
 viendo esto con el binomio de newton, podemos ver:
-$\frac{\lambda^{k}}{k!}e^{-k}$ $e^{x}=\mid e^{w\mid^{N}=(1+w)^{N}=\sum\limits_{k=0}^{N}\begin{pmatrix}N \\ k\end{pmatrix}}w^{k}=\sum\limits_{k=0}^{N}\begin{pmatrix}N \\ k\end{pmatrix} \begin{pmatrix}X \\ N\end{pmatrix}^{k}=\sum\limits_{k=0}^{N}\frac{N(N-1)\cdots (N-k +1)}{k!} \frac{x^{k}}{N^{k}}$
-$e^{x}=\sum\limits_{k=0}^{N}\left[\frac{N}{N}\frac{N-1}{N}\dots\frac{(N-[k-1])}{N}\right]\left( \frac{x^{k}}{k!}\right)$
-$\left[\frac{N}{N}\frac{N-1}{N}\dots\frac{(N-[k-1])}{N}\right]\rightarrow k~factores$ 
-$e^{k}=\sum\limits_{k=0}^{N}(1-\frac{1}{N})\dots(1-\frac{h-1}{N})\frac{X^{h}}{n}=lim_{n\rightarrow\infty}\sum\limits_{k=0}^{n}(1-\frac{1}{k})\dots(1-\frac{k-1}{k})\frac{x^{k}}{k!}$
-$e^{x}=\sum\limits_{k=0}^{\infty}\frac{x^{k}}{k!},~~e=\sum\limits_{k=0}^{\infty}\left(\frac{1}{n!}\right)$
+$$\frac{\lambda^{k}}{k!}e^{-k}$$
+$$e^{x}=\mid e^{w\mid^{N}=(1+w)^{N}=\sum\limits_{k=0}^{N}\begin{pmatrix}N \\ k\end{pmatrix}}w^{k}=\sum\limits_{k=0}^{N}\begin{pmatrix}N \\ k\end{pmatrix} \begin{pmatrix}X \\ N\end{pmatrix}^{k}=\sum\limits_{k=0}^{N}\frac{N(N-1)\cdots (N-k +1)}{k!} \frac{x^{k}}{N^{k}}$$
+$$e^{x}=\sum\limits_{k=0}^{N}\left[\frac{N}{N}\frac{N-1}{N}\dots\frac{(N-[k-1])}{N}\right]\left( \frac{x^{k}}{k!}\right)$$
+$$\left[\frac{N}{N}\frac{N-1}{N}\dots\frac{(N-[k-1])}{N}\right]\rightarrow k~factores$$ 
+$$e^{k}=\sum\limits_{k=0}^{N}(1-\frac{1}{N})\dots(1-\frac{h-1}{N})\frac{X^{h}}{n}=lim_{n\rightarrow\infty}\sum\limits_{k=0}^{n}(1-\frac{1}{k})\dots(1-\frac{k-1}{k})\frac{x^{k}}{k!}$$
+$$e^{x}=\sum\limits_{k=0}^{\infty}\frac{x^{k}}{k!},~~e=\sum\limits_{k=0}^{\infty}\left(\frac{1}{n!}\right)$$
 
 Representado a e como una serie tenemos:
 $\lambda=np$
@@ -283,7 +300,6 @@ Encontraremos:
 $$\mathbb{E}(x^{2})=\sum\limits_{k=0}^{\infty}k^{2}p(x=k)$$
 Utilizaremos la formula de la exponencial:
 $$$ \mathbb{E}[x^{2}]=\sum\limits_{k=0}^{\infty}k^{2}p(x=k)$$
-
 $$=\sum\limits_{k=0}^{\infty} k(k-1)+k*p(x=k)=\sum\limits_{k=0}^{\infty}k(k-1)p(x=k)+\sum\limits_{k=0}^{\infty}k*p(x=k)$$
 $$=\lambda*\sum\limits_{k=2}^{\infty} \left[\frac{(e^{-\lambda} \lambda^{k-2})} {(k-2)!}\right] +\lambda=\lambda*e^{-\lambda} \lambda^{2} \sum\limits_{k=0}^{\infty}\left[\frac{(\lambda^{k-2})}{(k-2)!} \right]+\lambda=\lambda^{2}+\lambda$$
 Entonces tenemos:

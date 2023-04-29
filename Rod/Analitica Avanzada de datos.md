@@ -1,3 +1,3 @@
 - [[Introduccion analitica]] 
 - [[Examen diagnóstico]] 
-- 
+- [[redes neuronales]] 

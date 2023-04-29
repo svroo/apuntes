@@ -8,3 +8,9 @@
 - [[clase 13 03 modulado]] 
 - [[clase 16 marzo modulado]] 
 - [[clase 23 de marzo]] 
+
+# Segundo parcial
+- [[clase 19 abril modulado]] 
+- [[clase 20 abril modulado]] 
+- [[clase 24 abril modulado]] 
+- [[clase 27 de abril modelado]] 
