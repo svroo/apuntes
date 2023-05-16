@@ -9,3 +9,4 @@
 - [[clase 20 abril series]] 
 - [[clase 21 de abril series]] 
 - [[clase 28 abril series]] 
+- [[Autocorrelacion y autocorrelacion parcial]] 

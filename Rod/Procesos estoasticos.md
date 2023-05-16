@@ -28,3 +28,7 @@ Primer Parcial:
 - [[clase 24 de abril procesos]] 
 - [[clase 26 de abril procesos]] 
 - [[clase 28 abril procesos]] 
+- [[clase 3 mayo procesos]] 
+- [[clase 4 de mayo]] 
+- [[clase 8 mayo procesos]] 
+- [[Clase 11 mayo procesos]] 

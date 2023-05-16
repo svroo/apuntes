@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clase 28 abril procesos.md",
+                "file": "Clase 11 mayo procesos.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "c68cc69cb5e70d27",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -86,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "clase 28 abril procesos.md",
+                "file": "Clase 11 mayo procesos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "clase 28 abril procesos.md",
+                "file": "Clase 11 mayo procesos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "clase 28 abril procesos.md"
+                "file": "Clase 11 mayo procesos.md"
               }
             }
           },
@@ -159,15 +167,29 @@
   },
   "active": "7d565d7536366720",
   "lastOpenFiles": [
-    "Pasted image 20230428131143.png",
     "Procesos estoasticos.md",
-    "clase 28 abril procesos.md",
-    "clase 28 abril series.md",
+    "Clase 11 mayo procesos.md",
     "Analisis de series de Tiempo.md",
+    "Clase 23 febrero 23.md",
+    "clase 2 de marzo.md",
+    "clase 3 de marzo.md",
+    "clase 20 de enero 2023.md",
+    "Autocorrelacion y autocorrelacion parcial.md",
+    "clase 4 de mayo.md",
+    "clase 8 mayo procesos.md",
+    "clase 08 de mayo modelado.md",
+    "Modulado Predictivo.md",
+    "Modelo de opimización de portafolios de markowits.md",
+    "Pasted image 20230504134759.png",
+    "Pasted image 20230504133731.png",
+    "clase 3 mayo procesos.md",
+    "Reconocimiento de patrones.md",
     "Analitica Avanzada de datos.md",
+    "clase 28 abril procesos.md",
+    "Pasted image 20230428131143.png",
+    "clase 28 abril series.md",
     "clase 26 de abril procesos.md",
     "clase 27 de abril modelado.md",
-    "Modulado Predictivo.md",
     "clase 24 de abril procesos.md",
     "Clase 21 de abril procesos.md",
     "Clase 20 abril procesos.md",
@@ -175,17 +197,6 @@
     "clase 17 de abril procesos.md",
     "clase 24 abril modulado.md",
     "Clase 5 de abril procesos.md",
-    "clase 3 abril procesos.md",
-    "Clase 30 marzo procesos.md",
-    "clase 27 de marzo.md",
-    "Clase 22 marzo procesos.md",
-    "Clase 17 marzo procesos.md",
-    "clase 16 marzo procesos.md",
-    "clase 21 de abril series.md",
-    "programas.md",
-    "Resumen primer parcial.md",
-    "clase 20 abril modulado.md",
-    "clase 20 abril series.md",
     "Pasted image 20230401142516.png",
     "Pasted image 20230401142259.png",
     "Pasted image 20230401141537.png",

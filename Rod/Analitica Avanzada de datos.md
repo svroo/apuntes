@@ -1,3 +1,4 @@
 - [[Introduccion analitica]] 
 - [[Examen diagnóstico]] 
 - [[redes neuronales]] 
+- [[Reconocimiento de patrones]] 
