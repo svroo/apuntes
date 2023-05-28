@@ -32,3 +32,5 @@ Primer Parcial:
 - [[clase 4 de mayo]] 
 - [[clase 8 mayo procesos]] 
 - [[Clase 11 mayo procesos]] 
+- [[Solucion de examen]] 
+- [[Solucion segundo examen]] 

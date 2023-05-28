@@ -2,3 +2,4 @@
 - [[Examen diagnóstico]] 
 - [[redes neuronales]] 
 - [[Reconocimiento de patrones]] 
+- [[Maquina de soporte analitica]] 
