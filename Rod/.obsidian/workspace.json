@@ -11,8 +11,12 @@
             "id": "c057314700a02d3f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "clase 29 mayo 2023 procesos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "clase 29 mayo 2023 procesos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "clase 29 mayo 2023 procesos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "clase 29 mayo 2023 procesos.md"
+              }
             }
           },
           {
@@ -159,9 +167,10 @@
   },
   "active": "c057314700a02d3f",
   "lastOpenFiles": [
+    "Procesos estoasticos.md",
+    "clase 29 mayo 2023 procesos.md",
     "README.md",
     "Solucion segundo examen.md",
-    "Procesos estoasticos.md",
     "Maquina de soporte analitica.md",
     "Analitica Avanzada de datos.md",
     "repaso 18 mayo series.md",
@@ -189,7 +198,6 @@
     "clase 28 abril series.md",
     "clase 26 de abril procesos.md",
     "clase 27 de abril modelado.md",
-    "clase 24 de abril procesos.md",
     "Pasted image 20230424161839.png",
     "Pasted image 20230401142516.png",
     "Pasted image 20230401142259.png",

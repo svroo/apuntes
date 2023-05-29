@@ -34,3 +34,4 @@ Primer Parcial:
 - [[Clase 11 mayo procesos]] 
 - [[Solucion de examen]] 
 - [[Solucion segundo examen]] 
+- [[clase 29 mayo 2023 procesos]] 
