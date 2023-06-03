@@ -11,3 +11,4 @@
 - [[clase 28 abril series]] 
 - [[Autocorrelacion y autocorrelacion parcial]] 
 - [[repaso 18 mayo series]] 
+- [[Segundo examen parcial series]] 

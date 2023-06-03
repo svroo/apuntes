@@ -3,14 +3,14 @@ gen.lib.rus.ec
 Programar en julia, python, r
 
 # Procesos estocásticos
-Se refiere a un ocnepto matemático que es de gran utilidad para usar magnitudes aleatorias que cambian en el transcurso del tiempo o para identificar la sucesión de las variables aleatorias que se transforman en función a otras variables.
+Se refiere a un concepto matemático que es de gran utilidad para usar magnitudes aleatorias que cambian en el transcurso del tiempo o para identificar la sucesión de las variables aleatorias que se transforman en función a otras variables.
 
 $E=P(A)$
 $P:E \rightarrow [0,1]$
 1. $P(0) =0,~P(A)=1,~P(B^{C}=1.P(B))$
 2. $P(A~U~B) = P(A) + P(B),~~A\cap B$ 
 
-Para un proceso estocastico necesitamos ciertas cosas, como:
+Para un proceso estocástico necesitamos ciertas cosas, como:
 1. Experimeto
 2. Resultados
 3. Espacio muestral (resultado de los experimentos)

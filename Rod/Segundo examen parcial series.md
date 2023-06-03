@@ -1,0 +1,4 @@
+- Para la última práctica, adicional a los requerimientos especificados en la misma, agregue
+- Una exposición de máximo 10 minutos en donde describa el proceso realizado para lograr el resultado obtenido
+- Una cela / script adicional que funcione como demo de su entregable
+- Se realizarán preguntas sobre su práctica y preguntas teroricas sobre lo utilizado o no.
