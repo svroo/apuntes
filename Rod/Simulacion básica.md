@@ -1,0 +1,4 @@
+- [[clase 14 de septiembre]] 
+- [[Clase 21 septiembre simulación]] 
+- [[clase 28 septiemre simulacion]] 
+- [[Clase 2 de octubre simulación]] 

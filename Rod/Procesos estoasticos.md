@@ -36,3 +36,4 @@ Primer Parcial:
 - [[Solucion segundo examen]] 
 - [[clase 29 mayo 2023 procesos]] 
 - [[Clase 2 de junio procesos]] 
+- [[clase 8 junio procesos]] 

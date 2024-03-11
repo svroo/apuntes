@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ea60aff43e4a5fc8",
+        "id": "e71628eaada6b56f",
         "type": "tabs",
         "children": [
           {
-            "id": "c057314700a02d3f",
+            "id": "858cc7fda7f20a6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clase 2 de junio procesos.md",
+                "file": "Clase 4 de Marzo.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,12 +73,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "10171c01c7693ff5",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clase 2 de junio procesos.md",
+                "file": "Clase 4 de Marzo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clase 2 de junio procesos.md",
+                "file": "Clase 4 de Marzo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clase 2 de junio procesos.md"
+                "file": "Clase 4 de Marzo.md"
               }
             }
           },
@@ -145,9 +145,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "68a38daf77a554e6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -165,43 +177,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c057314700a02d3f",
+  "active": "858cc7fda7f20a6a",
   "lastOpenFiles": [
-    "Procesos estoasticos.md",
-    "Clase 2 de junio procesos.md",
-    "Segundo examen parcial series.md",
-    "Analisis de series de Tiempo.md",
-    "Resumen primer parcial.md",
-    "clase 29 mayo 2023 procesos.md",
-    "README.md",
-    "Solucion segundo examen.md",
-    "Maquina de soporte analitica.md",
-    "Analitica Avanzada de datos.md",
-    "repaso 18 mayo series.md",
-    "Solucion de examen.md",
+    "Administracion de Proyectos de TI.md",
+    "Clase miercoles 21 febrero.md",
+    "Clase 4 de Marzo.md",
+    "Octavo semestre.md",
+    "Escom.md",
+    "Mineria de datos Zagal.md",
+    "clase 28 septiemre simulacion.md",
+    "Simulacion básica.md",
+    "Clase 2 de octubre simulación.md",
+    "Tarea 7.md",
+    "Bioinformatica.md",
+    "Introducción al PLN o NLP.md",
+    "Temas selectos de PNL.md",
+    "clase 14 de septiembre.md",
+    "lineamientos presentacion econometricos.md",
+    "Modelos econometricos.md",
+    "Tarea 6.md",
+    "Tarea 5.md",
+    "Pasted image 20230927093628.png",
+    "método simplex.md",
+    "Matematicas avanzadas (recurse).md",
+    "clase 20 septiembre modelos.md",
+    "Clase 21 septiembre simulación.md",
+    "Tarea 3.md",
+    "Tarea 2.md",
+    "Teorema fundamental de la programación lineal.md",
+    "Septimo Semestre.md",
+    "Pasted image 20230906121826.png",
+    "Pasted image 20230904152656.png",
     "Pasted image 20230518134208.png",
     "Pasted image 20230518130918.png",
-    "Clase 11 mayo procesos.md",
-    "Clase 23 febrero 23.md",
-    "clase 2 de marzo.md",
-    "clase 3 de marzo.md",
-    "clase 20 de enero 2023.md",
-    "Autocorrelacion y autocorrelacion parcial.md",
-    "clase 4 de mayo.md",
-    "clase 8 mayo procesos.md",
-    "clase 08 de mayo modelado.md",
-    "Modulado Predictivo.md",
-    "Modelo de opimización de portafolios de markowits.md",
     "Pasted image 20230504134759.png",
     "Pasted image 20230504133731.png",
-    "clase 3 mayo procesos.md",
-    "Reconocimiento de patrones.md",
-    "clase 28 abril procesos.md",
     "Pasted image 20230428131143.png",
     "Pasted image 20230424161839.png",
     "Pasted image 20230401142516.png",
-    "Pasted image 20230401142259.png",
-    "Pasted image 20230401141537.png",
     "clase 06"
   ]
 }

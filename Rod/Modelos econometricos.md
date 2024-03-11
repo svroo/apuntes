@@ -1,0 +1,5 @@
+- [[primera clase modelos econometricos]] 
+- [[modelo econometricos 30 agosto]]  
+- [[clase 6 de septiembre econometricos]] 
+- [[clase 20 septiembre modelos]] 
+- [[lineamientos presentacion econometricos]] 

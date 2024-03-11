@@ -22,10 +22,11 @@ $$\mathbb{E}[Y]=\sum\limits_{i}\mathbb{E}[Y\mid X=x_{i}]P(X=x_{i})$$
 
 ### Primer problema
 consiste el siguiente espacio de resultados:
+
 |     | T   | H   |
 | --- | --- | --- |
 | T   | TT  | TH  |
-| H   | HT  | HH  | 
+| H   | HT  | HH  |
 
 Y definiremos nuestros 3 eventos:
 $T= \frac{1}{2}$
@@ -51,4 +52,4 @@ $$(X_{2}=J, X_{0}=i)=U_{k}(X_{2}= J, X_{1}=P_{i}, X_{0}=1)$$
 $$P(X_{2}=J, X_{0}=i)=\sum\limits_{j}P(X_{2}=J, X_{1}=k, X_{o}=i)=\sum\limits_{k}P(X_{1}=J, X_{i}=h)P(X_{1}=k, X_{u}=1)$$
 no se pudo demostrar 💀
 
-Prueba inducción matematica que $P(X_{n}=J\mid X_{0}=J)=P_{ij}^{n}$ con base $n=2$ 
+Prueba inducción matemática que $P(X_{n}=J\mid X_{0}=J)=P_{ij}^{n}$ con base $n=2$ 

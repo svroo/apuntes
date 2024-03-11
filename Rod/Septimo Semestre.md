@@ -1,0 +1,5 @@
+- [[Bioinformatica]]
+- [[Matematicas avanzadas (recurse)]]
+- [[Temas selectos de PNL]]
+- [[Simulacion básica]]
+- [[Modelos econometricos]] 
