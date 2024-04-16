@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investigación para TT.md",
+                "file": "clase 25 de abril administración.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investigación para TT.md",
+                "file": "clase 25 de abril administración.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Investigación para TT.md",
+                "file": "clase 25 de abril administración.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investigación para TT.md"
+                "file": "clase 25 de abril administración.md"
               }
             }
           },
@@ -180,13 +180,27 @@
   },
   "active": "858cc7fda7f20a6a",
   "lastOpenFiles": [
-    "Escom.md",
-    "Investigación para TT.md",
-    "Clase 4 de Marzo.md",
+    "clase 11 abril administración.md",
+    "clase 25 de abril administración.md",
     "Administracion de Proyectos de TI.md",
-    "Clase miercoles 21 febrero.md",
-    "Octavo semestre.md",
+    "Primera clase Zagal.md",
     "Mineria de datos Zagal.md",
+    "Octavo semestre.md",
+    "Septimo Semestre.md",
+    "Clase del 25 de marzo administración.md",
+    "Clase 21 de marzo administracion.md",
+    "clase 20 de marzo administracion.md",
+    "Pasted image 20240306204559.png",
+    "Clase de 7 de enero administracion.md",
+    "Clase 14 de marzo administracion.md",
+    "CLASE 6 DE MARZO ADMINISTRACION.md",
+    "Clase 3 de marzo administracion.md",
+    "Tarea administracion ti 1.md",
+    "Pasted image 20240313125240.png",
+    "Investigación para TT.md",
+    "Escom.md",
+    "Clase 4 de Marzo.md",
+    "Clase miercoles 21 febrero.md",
     "clase 28 septiemre simulacion.md",
     "Simulacion básica.md",
     "Clase 2 de octubre simulación.md",
@@ -194,19 +208,7 @@
     "Bioinformatica.md",
     "Introducción al PLN o NLP.md",
     "Temas selectos de PNL.md",
-    "clase 14 de septiembre.md",
-    "lineamientos presentacion econometricos.md",
-    "Modelos econometricos.md",
-    "Tarea 6.md",
-    "Tarea 5.md",
     "Pasted image 20230927093628.png",
-    "método simplex.md",
-    "Matematicas avanzadas (recurse).md",
-    "clase 20 septiembre modelos.md",
-    "Clase 21 septiembre simulación.md",
-    "Tarea 3.md",
-    "Tarea 2.md",
-    "Teorema fundamental de la programación lineal.md",
     "Pasted image 20230906121826.png",
     "Pasted image 20230904152656.png",
     "Pasted image 20230518134208.png",
@@ -214,8 +216,6 @@
     "Pasted image 20230504134759.png",
     "Pasted image 20230504133731.png",
     "Pasted image 20230428131143.png",
-    "Pasted image 20230424161839.png",
-    "Pasted image 20230401142516.png",
     "clase 06"
   ]
 }

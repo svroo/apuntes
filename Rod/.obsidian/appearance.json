@@ -1,7 +1,8 @@
 {
   "accentColor": "",
   "baseFontSize": 14,
-  "textFontFamily": "Microsoft Sans Serif",
-  "interfaceFontFamily": "Microsoft Sans Serif",
-  "monospaceFontFamily": "Microsoft Sans Serif"
+  "textFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "cssTheme": "Vanilla AMOLED"
 }
