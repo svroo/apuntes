@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e71628eaada6b56f",
+        "id": "3302ae836bc92b43",
         "type": "tabs",
         "children": [
           {
-            "id": "858cc7fda7f20a6a",
+            "id": "89996ef62d09500f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "clase 25 de abril administración.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -95,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "clase 25 de abril administración.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "clase 25 de abril administración.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "clase 25 de abril administración.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,15 +170,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "858cc7fda7f20a6a",
+  "active": "89996ef62d09500f",
   "lastOpenFiles": [
-    "clase 11 abril administración.md",
-    "clase 25 de abril administración.md",
     "Administracion de Proyectos de TI.md",
-    "Primera clase Zagal.md",
     "Mineria de datos Zagal.md",
+    "Clase del 9 de mayo administración.md",
+    "Clase del 13 de mayo administración.md",
+    "Clase del 06 de mayo administración.md",
+    "Clase del 2 de mayo administración.md",
+    "clase 29 abril administración.md",
+    "Clase del 25-2 de administracion.md",
     "Octavo semestre.md",
     "Septimo Semestre.md",
+    "Tarea EDT administración.md",
+    "Clase del 22 de administración.md",
+    "Clase 17 de abril administración.md",
+    "clase 25 de abril administración.md",
+    "clase 11 abril administración.md",
+    "Primera clase Zagal.md",
     "Clase del 25 de marzo administración.md",
     "Clase 21 de marzo administracion.md",
     "clase 20 de marzo administracion.md",
@@ -199,15 +200,6 @@
     "Pasted image 20240313125240.png",
     "Investigación para TT.md",
     "Escom.md",
-    "Clase 4 de Marzo.md",
-    "Clase miercoles 21 febrero.md",
-    "clase 28 septiemre simulacion.md",
-    "Simulacion básica.md",
-    "Clase 2 de octubre simulación.md",
-    "Tarea 7.md",
-    "Bioinformatica.md",
-    "Introducción al PLN o NLP.md",
-    "Temas selectos de PNL.md",
     "Pasted image 20230927093628.png",
     "Pasted image 20230906121826.png",
     "Pasted image 20230904152656.png",
