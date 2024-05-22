@@ -10,7 +10,9 @@ Para calcular la balanza costo- beneficio está equilibrada se utilizan los sigu
 - se define el valor monetario de los costos y de los beneficios para la implantación del proyecto.
 - se convierten los costos y los beneficios a un valor actual
 - se halla la relación costo - beneficio que es igual a los ingresos totales netos divididos por los costos totales:
-- $$\frac{C}{B}=\frac{ingresos~totales~netos}{costos~totales}$$
+
+$$\frac{C}{B}=\frac{ingresos~totales~netos}{costos~totales}$$
+
 - si el análisis de la relación C/B es mayor a uno, significa que es rentable, mientras que si es igual o menor a uno indica que no es rentable.
 - se forma el resultado y se compara con otros proyectos.
 - se escoge el proyecto con el mayor índice en la relación.
