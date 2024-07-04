@@ -22,3 +22,10 @@
 - [[Clase del 16 de mayo administración]] 
 - [[clase 20 mayo de administración]] 
 - [[Clase 22 de Mayo administración]] 
+- [[Clase del 5 de Junio administración]] 
+- [[Clase del 10 de Junio administración]] 
+- [[Clase del 13 junio administración]] 
+- [[clase del 19 de junio administración]] 
+
+# Extra
+- [[Repaso administración para el extra]] 
