@@ -1,0 +1,6 @@
+- [[Clase 28 de agosto Gestión]] 
+- [[Tarea Definición Empresa]]
+- [[Clase 29 de agosto Gestión]] 
+- [[Borrador de presentación]] 
+- [[Exposición Equipo 1]] 
+- [[Exposición Equipo 2]] 
