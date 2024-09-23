@@ -1,1 +1,6 @@
 - [[Primera clase 9 de septiembre desarrollo de habilidades]] 
+- [[Clase del 9 de septiembre desarrollo de habilidades]] 
+- [[Tarea uno]] 
+- [[clase del 18 septiembre desarrollo de habilidades]] 
+- [[Consolidado Empresa]] 
+- [[Clase del 23 de septiembre desarrollo de habilidades]] 

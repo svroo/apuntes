@@ -1,13 +1,13 @@
 # La comunicación, la autoridad y el poder
 
 Saber comunicar siempre ha sido una preocupación humana.
-Pero, Porque? Por qué es tan relevante?
+Pero, ¿Porque? ¿Por qué es tan relevante?
 
 Es sencillo: el persuadir a grandes audiencias ha sido siempre la clave para obtener poder. Poder para gobernar, para vender algo, para lograr alianzas o para lo que sea.
 
 Es así que uno de los máximos exponentes de la filosofía antigua empezó a cuestionarse sobre este proceso llamado <<comunicación>>.
 
-Aristótoles (384-322 A.C) desarrolló un modelo de comunicación conocido como "El modelo de comunicación de Aristóteles" o **modelo aristotélico de la comunicación**.
+Aristóteles (384-322 A.C) desarrolló un modelo de comunicación conocido como "El modelo de comunicación de Aristóteles" o **modelo aristotélico de la comunicación**.
 
 #### Qué es el modelo de comunicación de Aristóteles? 
 
@@ -15,7 +15,7 @@ Es un modelo **centrado en el emisor** que considera que el flujo comunicacional
 
 La función del proceso es **persuadir al receptor**. Para lograrlo, el emisor debe estructurar su discurso de acuerdo al perfil de su audiencia y de acuerdo al contexto que lo rodea.
 
-#### Características del modelo de comunicación de aristóteles
+#### Características del modelo de comunicación de Aristóteles
 
 - Es lineal, matemático y racional.
 - Considera que el emisor es el elemento más importante.
@@ -34,7 +34,7 @@ Se compone de cinco elementos clave:
 1. Fuente: es el origen del mensaje, donde se genera la información que se desea transmitir. Puede ser una persona, una máquina, un animal, entre otros.
 2. Codificación: se refiere al proceso mediante el cual se convierte la información en un formato que pueda ser transmitido a través del canal. Aquí se utilizan códigos y lenguajes que permiten la transmisión de la información de manera eficiente.
 3. Canal: es el medio a través del cual se transmite el mensaje, ya sea por medio de ondas electromagnéticas, cable de fibra óptica, aire, etc.
-4. Decodificación: es el proceso mediante el cual el receptor, utilizando el mismo código o lenguaje que el emisor, traduce la información recibida a un formato que pueda ser comprendido y utilizado.
+4. De codificación: es el proceso mediante el cual el receptor, utilizando el mismo código o lenguaje que el emisor, traduce la información recibida a un formato que pueda ser comprendido y utilizado.
 5. Destino: es el receptor o receptores del mensaje, aquellos para quienes la información fue destinada originalmente.
 
 ### Comunicación según Marshall McLuhan
