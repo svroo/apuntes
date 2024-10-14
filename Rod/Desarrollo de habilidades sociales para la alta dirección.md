@@ -4,3 +4,6 @@
 - [[clase del 18 septiembre desarrollo de habilidades]] 
 - [[Consolidado Empresa]] 
 - [[Clase del 23 de septiembre desarrollo de habilidades]] 
+- [[Clase del 25 de septiembre desarrollo de habilidades]] 
+- [[clase 7 de octubre desarrollo]]  
+- [[Clase 9 de octubre desarrollo]] 
