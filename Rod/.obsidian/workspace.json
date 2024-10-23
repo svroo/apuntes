@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clase 9 de octubre desarrollo.md",
+                "file": "Clase 23 de octubre desarrollo.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Clase 23 de octubre desarrollo"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -70,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -94,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clase 9 de octubre desarrollo.md",
+                "file": "Clase 23 de octubre desarrollo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Clase 23 de octubre desarrollo"
             }
           },
           {
@@ -111,10 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clase 9 de octubre desarrollo.md",
+                "file": "Clase 23 de octubre desarrollo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Clase 23 de octubre desarrollo"
             }
           },
           {
@@ -125,7 +139,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -134,8 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clase 9 de octubre desarrollo.md"
-              }
+                "file": "Clase 16 de octubre desarrollo.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Clase 16 de octubre desarrollo"
             }
           },
           {
@@ -143,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -155,11 +175,13 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -180,6 +202,7 @@
   "active": "89996ef62d09500f",
   "lastOpenFiles": [
     "Desarrollo de habilidades sociales para la alta dirección.md",
+    "Clase 23 de octubre desarrollo.md",
     "Clase 9 de octubre desarrollo.md",
     "clase 7 de octubre desarrollo.md",
     "Untitled 1.md",
@@ -207,7 +230,6 @@
     "14 principios de la administración y como se aplican en la empresa.md",
     "Teoría general de sistemas y la empresa como sistema diferentes propuestas..md",
     "Tarea uno.md",
-    "Diagnostico de competidores estrategias, preguntas clave, análisis de fuerzas.md",
     "Pasted image 20240703194854.png",
     "Pasted image 20240703184216.png",
     "Pasted image 20240703184124.png",
