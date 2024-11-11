@@ -7,4 +7,6 @@
 - [[Clase del 25 de septiembre desarrollo de habilidades]] 
 - [[clase 7 de octubre desarrollo]]  
 - [[Clase 9 de octubre desarrollo]] 
+- [[Clase 14 de octubre desarrollo]] 
 - [[Clase 23 de octubre desarrollo]] 
+- [[Clase 4 de noviembre desarrollo]] 
