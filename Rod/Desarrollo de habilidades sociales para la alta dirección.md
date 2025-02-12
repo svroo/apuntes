@@ -9,4 +9,5 @@
 - [[Clase 9 de octubre desarrollo]] 
 - [[Clase 14 de octubre desarrollo]] 
 - [[Clase 23 de octubre desarrollo]] 
-- [[Clase 4 de noviembre desarrollo]] 
+- [[Clase 11 de noviembre desarrollo]] 
+- [[]]

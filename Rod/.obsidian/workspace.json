@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3302ae836bc92b43",
+        "id": "728e6adb693eddf9",
         "type": "tabs",
         "children": [
           {
-            "id": "10f4448fe310c0d9",
+            "id": "c0058149e52b687b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Clase 4 de noviembre desarrollo.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.7.7"
               },
               "icon": "lucide-file",
-              "title": "Clase 4 de noviembre desarrollo"
+              "title": "Release Notes 1.7.7"
             }
           }
         ]
@@ -199,10 +197,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "10f4448fe310c0d9",
+  "active": "c0058149e52b687b",
   "lastOpenFiles": [
+    "Las 5 S y las 7 S de Mckinsey.md",
+    "Gestión Empresarial.md",
+    "Outsourcing.md",
+    "Sistemas justo a tiempo y el Kanban.md",
+    "Calidad, Calidad Total.md",
+    "Control del estrés.md",
+    "Gestión del tiempo.md",
+    "Manejo de conflictos, Poder.md",
+    "Rejilla administrativa.md",
+    "Liderazgo.md",
+    "Proceso de reclutamiento y selección de personal.md",
+    "Clase 11 de noviembre desarrollo.md",
     "Desarrollo de habilidades sociales para la alta dirección.md",
-    "Clase 4 de noviembre desarrollo.md",
     "Estado del arte.md",
     "Inicio.md",
     "Trabajo Terminal 1.md",
@@ -212,24 +221,13 @@
     "Clase 9 de octubre desarrollo.md",
     "clase 7 de octubre desarrollo.md",
     "Untitled 1.md",
-    "Gestión Empresarial.md",
     "Ciclo de vida de un producto en SIRI.md",
     "Clase 29 de agosto Gestión.md",
     "Clase 28 de agosto Gestión.md",
     "Tarea Definición Empresa.md",
-    "Consolidado Empresa.md",
-    "Datos de contacto.md",
-    "Clase del 25 de septiembre desarrollo de habilidades.md",
-    "Clase del 23 de septiembre desarrollo de habilidades.md",
     "Pasted image 20240923125012.png",
-    "clase del 18 septiembre desarrollo de habilidades.md",
     "WhatsApp Image 2024-09-20 at 19.47.43_3b183119.jpg",
     "WhatsApp Image 2024-09-20 at 19.47.23_0a22721d.jpg",
-    "Clase del 9 de septiembre desarrollo de habilidades.md",
-    "Análisis FODA y plan de negocios.md",
-    "Diagnostico de competidores, estrategias, preguntas clave, análisis de fuerzas. Selección de proveedores y clientes, criterios, características, procedimiento y ejemplos.md",
-    "Barreras de ingreso según Porter, y productos sustitutos, en que consisten, tipos y forma de ingreso.md",
-    "Ciclo de vida del producto y la tecnología aplicado a un caso en el área de inteligencia artificial.md",
     "Pasted image 20240703194854.png",
     "Pasted image 20240703184216.png",
     "Pasted image 20240703184124.png",

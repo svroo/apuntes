@@ -14,3 +14,15 @@
 - [[Barreras de ingreso según Porter, y productos sustitutos, en que consisten, tipos y forma de ingreso]] 
 - [[Diagnostico de competidores, estrategias, preguntas clave, análisis de fuerzas. Selección de proveedores y clientes, criterios, características, procedimiento y ejemplos]] 
 - [[Análisis FODA y plan de negocios]] 
+
+### Investigación segundo parcial
+- [[Proceso de reclutamiento y selección de personal]] 
+- [[Liderazgo]] 
+- [[Rejilla administrativa]]
+- [[Manejo de conflictos, Poder]]
+- [[Gestión del tiempo]] 
+- [[Control del estrés]] 
+- [[Calidad, Calidad Total]]
+- [[Sistemas justo a tiempo y el Kanban]]
+- [[Outsourcing]]
+- [[Las 5 S y las 7 S de Mckinsey]] 
